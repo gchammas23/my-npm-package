@@ -1,0 +1,19 @@
+{
+  "name": "days-until",
+  "version": "1.0.0",
+  "description": "This is a package that calculates the amount of time left to get to the specified date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gchammas23/my-npm-package.git"
+  },
+  "author": "Gabriel Chammas (https://gchammas23.github.io/portfolio/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gchammas23/my-npm-package/issues"
+  },
+  "homepage": "https://github.com/gchammas23/my-npm-package#readme"
+}
