@@ -1,5 +1,5 @@
 {
-  "name": "days-until",
+  "name": "@gchammas23/days-until",
   "version": "1.0.0",
   "description": "This is a package that calculates the amount of time left to get to the specified date",
   "main": "index.js",
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/gchammas23/my-npm-package/issues"
   },
-  "homepage": "https://github.com/gchammas23/my-npm-package#readme"
+  "homepage": "https://github.com/gchammas23/my-npm-package#readme",
+  "keywords": ["Javascript", "Countdown", "Days", "Node"]
 }
