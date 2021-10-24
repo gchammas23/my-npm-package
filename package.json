@@ -1,5 +1,5 @@
 {
-  "name": "@gchammas23/days-until",
+  "name": "days-counter",
   "version": "1.0.0",
   "description": "This is a package that calculates the amount of time left to get to the specified date",
   "main": "index.js",
